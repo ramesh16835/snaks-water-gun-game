@@ -32,5 +32,5 @@ The project is currently under development and will be updated with additional f
 
 ## 📜 Conclusion
 
-The Winter Skill Development Project is a valuable learning experience that helps bridge the gap between theory and practice. This project contributes significantly to skill enhancement and technical growth
+The Winter Skill Development Project is a valuable learning experience that helps bridge the gap between theory and practice. This project contributes significantly to skill enhancement and technical growth.
 
